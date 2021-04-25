@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2>TechnologyClassroom</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=TechnologyClassroom&show_icons=true&theme=dark" width="380">
+<p><em>GNU/Linux Web Developer/Sysadmin/Public Speaker</em></p>
+
+📫 How to reach me:<br>
+[![GitHub TechnologyClassroom](https://img.shields.io/github/followers/TechnologyClassroom?label=follow%20github&style=flat-square)](https://github.com/TechnologyClassroom)<br>
+IRC: thomzane<br>
+Mastodon: @thomzane@daedal.io<br>
+LibrePay: <a href="https://liberapay.com/technologyclassroom/">TechnologyClassroom</a><br>
+GitLab: <a href="https://gitlab.com/TechnologyClassroom">TechnologyClassroom</a><br>
+GPG Key: <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x43372794C8ADD5CA8FCFFA6CD03759DAB600E3C0">4337 2794 C8AD D5CA 8FCF  FA6C D037 59DA B600 E3C0</a>
 
 <!--
 **TechnologyClassroom/TechnologyClassroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
