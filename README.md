@@ -4,7 +4,7 @@
 
 📫 How to reach me:<br>
 [![GitHub TechnologyClassroom](https://img.shields.io/github/followers/TechnologyClassroom?label=follow%20github&style=flat-square)](https://github.com/TechnologyClassroom)<br>
-IRC: thomzane<br>
+IRC (Libera.Chat): thomzane<br>
 Mastodon: @thomzane@daedal.io<br>
 LibrePay: <a href="https://liberapay.com/technologyclassroom/">TechnologyClassroom</a><br>
 GitLab: <a href="https://gitlab.com/TechnologyClassroom">TechnologyClassroom</a><br>
