@@ -1,6 +1,6 @@
 <h2>TechnologyClassroom</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=TechnologyClassroom&show_icons=true&theme=dark" width="380">
-<p><em>GNU/Linux Web Developer/Sysadmin/Public Speaker</em></p>
+<p><em>GNU/Linux Systems Administrator and public speaker</em></p>
 
 📫 How to reach me:<br>
 [![GitHub TechnologyClassroom](https://img.shields.io/github/followers/TechnologyClassroom?label=follow%20github&style=flat-square)](https://github.com/TechnologyClassroom)<br>
