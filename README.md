@@ -1,5 +1,5 @@
 <h2>TechnologyClassroom</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=TechnologyClassroom&show_icons=true&theme=dark" width="380">
+<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=TechnologyClassroom&show_icons=true&theme=dark" width="380">-->
 <p><em>GNU/Linux Systems Administrator and public speaker</em></p>
 
 📫 How to reach me:<br>
