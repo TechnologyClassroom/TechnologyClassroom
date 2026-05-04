@@ -10,7 +10,7 @@ GPG Key: <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x43372794C8ADD5C
 <!-- GitLab: <a href="https://gitlab.com/TechnologyClassroom">TechnologyClassroom</a><br> -->
 <!-- <a rel="me" href="https://daedal.io/@thomzane">Mastodon</a> -->
 
-If you expected more activity from me, keep in mind that GitHub is not the only software forge that I use. I am also active on [GitLab](https://gitlab.com/TechnologyClassroom), [Pagure](https://pagure.io/JShelter/webextension/), [Codeberg](https://codeberg.org/), [Sourcehut](https://sr.ht/), and various self-hosted forge instances.
+If you expected more activity from me, keep in mind that GitHub is not the only software forge that I use. I am also active across [GitLab](https://gitlab.com/TechnologyClassroom), [Pagure](https://pagure.io/JShelter/webextension/), [Codeberg](https://codeberg.org/), [Sourcehut](https://sr.ht/), and various self-hosted forge instances.
 
 <!--
 **TechnologyClassroom/TechnologyClassroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
